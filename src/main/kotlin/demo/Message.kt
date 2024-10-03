@@ -1,3 +1,3 @@
-    package demo
+package demo
    
-    data class Message(val id: String?, val text: String)
+data class Message(val id: String?, val text: String)
